@@ -1,0 +1,74 @@
+h1.titulo {
+    text-align: center ;
+    font-family: 'Times New Roman', Times, serif;
+    color: #1e00ff;
+}
+h2.subt {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsl(247, 100%, 50%);
+    color: white;
+    width: 100%;
+    padding: 20px 0;
+}
+header {
+    background-color: #fff700;
+    width: 100%;
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index:1000;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    padding-top: 100px;
+}
+table {
+    width: 80%;
+    margin: auto;
+}
+h3.pr {
+    background-color: black;
+    color: white;
+
+}
+p.edit {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
+h2.final {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff700;
+    color: #1e00ff;
+    width: 100%;
+    padding: 20px 0;
+}
+input.botao {
+    min-width: 44px;
+    min-height: 44px;
+    padding: 8px 12px;
+    vertical-align: middle;
+  }
+div.alinha {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+hr.linha {
+    height: 2px;
+    background-color: #1e00ff;
+    width: 100%;
+    margin: 20px auto;
+}
+.bordas {
+    border: 5px solid #333; 
+    border-radius: 8px; 
+    width: 300px; 
+    height: auto;
+}

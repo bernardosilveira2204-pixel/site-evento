@@ -1,0 +1,43 @@
+p.nova {
+    background-color:green;
+}
+p.amarelo {
+    background-color:yellow;
+}
+p.verde {
+    background-color:greenyellow;
+}
+hr.lin{
+    color:blue;
+    height:10px;
+}
+table.a{
+    font-family:'Trebuchet MS', 'Verdana', 'Lucida Grande', 'Helvetica', sans-serif
+}
+
+table.a th, table.a td{
+    border: thin solid black
+}
+th.a{
+    font-size:18px;
+    border:1px solid #98bf21;
+    background-color:#0000CD;
+    color:#ffffff;
+    padding: 3px 7px 3px 7px;
+}
+td.a{
+    border:1px solid gray;
+    padding:5px 5px 7px 7px;
+}
+tr.a{
+    border: thin solid black;
+    padding: 8px;
+    color: #000000;
+    background-color:#87CEEB;
+}
+body.a {
+    background-color:#87CEEB ;
+}
+hr.a {
+    color:black;
+}
